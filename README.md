@@ -1,8 +1,6 @@
 LEGEND OF WHITESPIRE
 ---------------------------
 
-Open application from "bin/Release/Dice.exe"
-
 This is a simple game of chance simulating a typical tabletop RPG roll format. You can choose to fight the dragon at any time, but the dragon will always roll high. 
 Certain items will supplement your combat roll, and can be obtained depending on your decisions in-game.
 
